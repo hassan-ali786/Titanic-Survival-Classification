@@ -95,4 +95,9 @@ Run all cells in Jupyter Notebook
 
 Conclusion
 
-This project demonstrates the complete machine learning workflow, from data cleaning to model evaluation, using a real-world dataset.
+This project demonstrates the complete machine learning workflow, from data cleaning to model evaluation, using a real-world dataset.\
+
+Author
+
+Hassan Ali
+Data Science and Machine Learning Enthusiast
